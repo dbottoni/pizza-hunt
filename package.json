@@ -2,7 +2,7 @@
   "name": "18-nosql",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "## Description",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -11,6 +11,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbottoni/pizza-hunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dbottoni/pizza-hunt/issues"
+  },
+  "homepage": "https://github.com/dbottoni/pizza-hunt#readme"
 }
